@@ -1,0 +1,10 @@
+.idea
+.vscode
+/Thinkphp/vendor
+*.log
+thinkphp
+.env
+.DS_Store
+/Thinkphp/runtime
+.git
+composer.lock
